@@ -1,0 +1,17 @@
+C:\Users\Daniil Kochyk\Desktop\CRUD-AspNetCore-WebAPI-master\CoreServices\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Daniil Kochyk\Desktop\CRUD-AspNetCore-WebAPI-master\CoreServices\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Daniil Kochyk\Desktop\CRUD-AspNetCore-WebAPI-master\CoreServices\bin\Debug\netcoreapp2.1\CoreServices.deps.json
+C:\Users\Daniil Kochyk\Desktop\CRUD-AspNetCore-WebAPI-master\CoreServices\bin\Debug\netcoreapp2.1\CoreServices.runtimeconfig.json
+C:\Users\Daniil Kochyk\Desktop\CRUD-AspNetCore-WebAPI-master\CoreServices\bin\Debug\netcoreapp2.1\CoreServices.runtimeconfig.dev.json
+C:\Users\Daniil Kochyk\Desktop\CRUD-AspNetCore-WebAPI-master\CoreServices\bin\Debug\netcoreapp2.1\CoreServices.dll
+C:\Users\Daniil Kochyk\Desktop\CRUD-AspNetCore-WebAPI-master\CoreServices\bin\Debug\netcoreapp2.1\CoreServices.pdb
+C:\Users\Daniil Kochyk\Desktop\CRUD-AspNetCore-WebAPI-master\CoreServices\obj\Debug\netcoreapp2.1\CoreServices.csprojAssemblyReference.cache
+C:\Users\Daniil Kochyk\Desktop\CRUD-AspNetCore-WebAPI-master\CoreServices\obj\Debug\netcoreapp2.1\CoreServices.AssemblyInfoInputs.cache
+C:\Users\Daniil Kochyk\Desktop\CRUD-AspNetCore-WebAPI-master\CoreServices\obj\Debug\netcoreapp2.1\CoreServices.AssemblyInfo.cs
+C:\Users\Daniil Kochyk\Desktop\CRUD-AspNetCore-WebAPI-master\CoreServices\obj\Debug\netcoreapp2.1\CoreServices.csproj.CoreCompileInputs.cache
+C:\Users\Daniil Kochyk\Desktop\CRUD-AspNetCore-WebAPI-master\CoreServices\obj\Debug\netcoreapp2.1\CoreServices.RazorAssemblyInfo.cache
+C:\Users\Daniil Kochyk\Desktop\CRUD-AspNetCore-WebAPI-master\CoreServices\obj\Debug\netcoreapp2.1\CoreServices.RazorAssemblyInfo.cs
+C:\Users\Daniil Kochyk\Desktop\CRUD-AspNetCore-WebAPI-master\CoreServices\obj\Debug\netcoreapp2.1\CoreServices.RazorTargetAssemblyInfo.cache
+C:\Users\Daniil Kochyk\Desktop\CRUD-AspNetCore-WebAPI-master\CoreServices\obj\Debug\netcoreapp2.1\CoreServices.dll
+C:\Users\Daniil Kochyk\Desktop\CRUD-AspNetCore-WebAPI-master\CoreServices\obj\Debug\netcoreapp2.1\CoreServices.pdb
+C:\Users\Daniil Kochyk\Desktop\CRUD-AspNetCore-WebAPI-master\CoreServices\obj\Debug\netcoreapp2.1\CoreServices.genruntimeconfig.cache
